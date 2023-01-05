@@ -19,6 +19,7 @@ I have experience with a PoW mining over 3 years. Now I'm working with nodes on 
 * **[Humans](https://explorer.humans.zone/humans-testnet/staking/humanvaloper1s7vqhlesgtfr5a85pedxquctsc9j2zs2ufgwk7)**
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
 * **[Nolus](https://nolus.explorers.guru/validator/nolusvaloper1t2605rkkrr5zszx2ymeqhz2j24gdypn6e74tft)**
+* **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
 
 ## Links:
 * **Gmail** - dmytrobtc88@gmail.com
