@@ -20,6 +20,7 @@ I have experience with a PoW mining over 3 years. Now I'm working with nodes on 
 * **[Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper10rm952fn4e37apwr7eadr6h2n3z527yucj2hae)**
 * **[Nolus](https://nolus.explorers.guru/validator/nolusvaloper1t2605rkkrr5zszx2ymeqhz2j24gdypn6e74tft)**
 * **[Lava](https://lava.explorers.guru/validator/lava@valoper1c9e9ntwz2g6sxe5g00z0vgxp9yfqkrfe8fgzua)**
+* **[Mars](https://mars.explorers.guru/validator/marsvaloper1q9ewxv2tmuj0j6q67emshn5hc9hr8e949prt8p)**
 
 ## Links:
 * **Gmail** - dmytrobtc88@gmail.com
